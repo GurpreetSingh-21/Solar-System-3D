@@ -1,8 +1,13 @@
-# React + Vite
+Solar System 3D Visualization
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a 3D simulation of the solar system, built using React Three Fiber (a React wrapper for Three.js). It features interactive controls that allow users to zoom, pan, and rotate around the planets. Each planet orbits around the Sun with realistic motion and textures.
 
-Currently, two official plugins are available:
+Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React for building the user interface.
+
+React Three Fiber for handling 3D rendering.
+
+Three.js for creating and animating 3D objects.
+
+@react-three/drei for additional utilities and enhancements.
