@@ -1,0 +1,20 @@
+.planet-info {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  max-width: 300px;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
+}
+
+.planet-info h2 {
+  margin: 0 0 10px;
+  color: #ffcc00;
+}
+
+.planet-info p {
+  margin: 5px 0;
+}
